@@ -9,7 +9,9 @@ class Book
   end
  
   def cobble
-    puts "Flipping the page...wow, you read fast!"
+    puts "that the shoe has been repaired"
+    :condition = new
   end
- 
 end
+
+shoe.new("Nike")
