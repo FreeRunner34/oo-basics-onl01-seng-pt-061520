@@ -9,8 +9,8 @@ class Shoe
   end
  
   def cobble
-    puts "that the shoe has been repaired"
-    :condition = new
+    puts "the shoe has been repaired"
+  #  :condition = new
   end
 end
 
