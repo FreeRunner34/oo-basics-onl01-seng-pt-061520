@@ -10,7 +10,7 @@ class Book
  
   def cobble
     puts "that the shoe has been repaired"
-    :condition = "new"
+    :condition= "new"
   end
 end
 
